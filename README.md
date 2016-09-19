@@ -55,17 +55,17 @@ That's it. Ready for serving.
 Go on GitHub in your repos **Settings** tab to the **GitHub Pages** sections and pick **Use the master branch** in **Select Source**.
 Save. Enjoy. Happy Jekylling!
 
+### Live Demo
+
+See a live demo @ [`henrythemes.github.io/hello-jekyll-theme` »](https://henrythemes.github.io/hello-jekyll-theme)
 
 
-### Bonus - Q: Where the Styling?
+### Bonus - Q: Where the Styling? - Hello, Minima! Theme - Get Started in 60 Seconds, Reloaded
 
 It's up to you to add your styling of choice.
 To use a pre-defined (read-to-use) design/style/theme see the [**Hello, Minima! Theme - Get Started in 60 Seconds**](https://github.com/henrythemes/hello-minima-theme) repo.
 
 
-### Live Demo
-
-See a live demo @ [`henrythemes.github.io/hello-jekyll-theme` »](https://henrythemes.github.io/hello-jekyll-theme)
 
 ### More Themes
 
