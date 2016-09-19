@@ -60,7 +60,7 @@ Save. Enjoy. Happy Jekylling!
 See a live demo @ [`henrythemes.github.io/hello-jekyll-theme` »](https://henrythemes.github.io/hello-jekyll-theme)
 
 
-### Bonus - Q: Where the Styling? - Hello, Minima! Theme - Get Started in 60 Seconds, Reloaded
+### Bonus - Q: Where the Styling? A: Hello, Minima! Theme - Get Started in 60 Seconds, Reloaded
 
 It's up to you to add your styling of choice.
 To use a pre-defined (read-to-use) design/style/theme see the [**Hello, Minima! Theme - Get Started in 60 Seconds**](https://github.com/henrythemes/hello-minima-theme) repo.
