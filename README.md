@@ -7,12 +7,12 @@ Setup Jekyll with GitHub Pages in 60 Seconds
 
 ### Step 1 - Create the Jekyll Configuration / Settings File
 
-Add your site title e.g. Hello, Jekyll!
+Add your site title e.g. Your Site Title
 
 `_config.yml`:
 
 ```
-title: Hello, Jekyll!
+title: Your Site Title
 ```
 
 ### Step 2 - Create the Index Page
