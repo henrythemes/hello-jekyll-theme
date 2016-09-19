@@ -25,7 +25,7 @@ Add your index (front) page with a page title e.g. Welcome and using the default
 ---
 title: Welcome
 layout: default
-```
+---
 
 Hello, Jekyll!
 ```
@@ -52,6 +52,8 @@ Hello, Jekyll!
 
 That's it. Ready for serving.
 
+Go on GitHub in your repos **Settings** tab to the **GitHub Pages** sections and pick **Use the master branch** in **Select Source**.
+Save. Enjoy. Happy Jekylling!
 
 
 ### Live Demo
