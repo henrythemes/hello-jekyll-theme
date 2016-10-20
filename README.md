@@ -33,7 +33,7 @@ Hello, Jekyll!
 
 ### Step 3 -  Create the Master Layout
 
-`_layout/default.html`
+`_layouts/default.html`
 
 ```
 <!DOCTYPE html>
